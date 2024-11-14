@@ -5,7 +5,7 @@
 
 # Interesting/Passion🔍
 - I'm interested in <b>C</b> because it's the best performance programming language I have ever seen.
-- I love Linux and everything about OS because I had a good experience with it in the past.
+- I love Linux and everything about OS because I had a good experienced with it in the past.
 
 # Education🏫
 - School of Information Technology (IT KMITL)
