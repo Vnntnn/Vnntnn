@@ -18,7 +18,7 @@
 - Discord: tna1034
 - Tel: +66 0959149796
 
-# Portfolio📖
+# Website📖
 - <b>⚠️Website in progress..⚠️</b>
 ---
 
