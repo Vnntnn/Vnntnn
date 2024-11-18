@@ -4,11 +4,9 @@
 👋HEY There, You can call me `Nine`9️⃣ Nice to meet you!
 
 # Interesting/Passion🔍
-- Linux and everything about OS.
-- Cyber security.
-- Seeking about Software Supply Chain Security, DevOps.
+- Seeking Software Supply Chain Security, DevOps, Cyber security, and Unix programming.
 - Love to contribute to open-source projects/software
-- I'm interested in <b>C</b>
+- I'm interested in <b>C</b>, Linux and everything about OS.
 
 # Education🏫
 - Freshmen at the School of Information Technology (IT KMITL)
