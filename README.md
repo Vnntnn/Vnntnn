@@ -8,7 +8,7 @@
 - Cyber security.
 - Seeking about Software Supply Chain Security, DevOps.
 - Love to contribute to open-source projects/software
-- I'm interested in <b>C</b> because it's the best performance programming language I have ever seen.
+- I'm interested in <b>C</b>
 
 # Education🏫
 - Freshmen at the School of Information Technology (IT KMITL)
