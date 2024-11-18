@@ -1,7 +1,7 @@
 ---
 ---
 # Introduction🧑‍💻
-👋HEY!, You can call me `Nine`9️⃣ Nice to meet you!!! I love to be a leader and member at the same time, and I like to listen to others too.
+👋HEY There, You can call me `Nine`9️⃣ Nice to meet you!
 
 # Interesting/Passion🔍
 - Linux and everything about OS.
