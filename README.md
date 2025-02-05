@@ -12,7 +12,6 @@ Hey, I'm Nine n2meetu :>
 
 # Contact☎️
 - Email: thanabodee.ninee@gmail.com
-- Github: Vnntnn
 - Discord: tna1034
 
 # Website📖
