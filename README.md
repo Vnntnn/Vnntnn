@@ -1,18 +1,19 @@
 ---
 ---
 # Introduction🧑‍💻
-👋HEY There, You can call me `Nine`9️⃣ Nice to meet you!
+Hey, I'm Nine n2meetu :>
 
 # Interesting/Passion🔍
-- Seeking Software Supply Chain Security, DevOps, Cyber security, and Unix programming.
-- Love to contribute to open-source projects/software
-- I'm interested in <b>C</b>, Linux and everything about OS.
+- Data science, learning.
+- Web dev, learning.(Hating this shit bruh)
+- DB, SQLite learning.
+- Basics ML, learning.
 
 # Education🏫
 - Freshmen at the School of Information Technology (IT KMITL)
 
 # Contact☎️
-- Email: thanabodee.nine@gmail.com
+- Email: thanabodee.ninee@gmail.com
 - Github: FineNlow
 - Discord: tna1034
 - Tel: +66 0959149796
