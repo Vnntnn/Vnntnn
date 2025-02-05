@@ -2,6 +2,7 @@
 Hey, I'm Nine n2meetu :>
 
 # Interesting/Passion🔍
+Nothin special and quickly just...
 - Data science, learning.
 - Web dev, learning.(Hating this shit bruh)
 - DB, SQLite learning.
