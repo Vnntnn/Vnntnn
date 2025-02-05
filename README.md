@@ -14,7 +14,6 @@ Hey, I'm Nine n2meetu :>
 - Email: thanabodee.ninee@gmail.com
 - Github: Vnntnn
 - Discord: tna1034
-- Tel: +66 0959149796
 
 # Website📖
 - <b>⚠️Website in progress..⚠️</b>
