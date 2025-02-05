@@ -8,7 +8,7 @@ Hey, I'm Nine n2meetu :>
 - Basics ML, learning.
 
 # Education🏫
-- Freshmen at the School of Information Technology (IT KMITL)
+- Freshmen at the School of Information Technology at KMITL
 
 # Contact☎️
 - Email: thanabodee.ninee@gmail.com
