@@ -2,11 +2,10 @@
 Hey, I'm Nine n2meetu :>
 
 # Interesting/Passion🔍
-Nothin special and quickly just...
-- Data science, learning.
-- Web dev, learning.(Hating this shit bruh)
-- DB, SQLite learning.
-- Basics ML, learning.
+- Infrastructures
+- C
+- AI/ML/Deep learning
+- Cloud
 
 # Education🏫
 - Freshmen at the School of Information Technology at KMITL
