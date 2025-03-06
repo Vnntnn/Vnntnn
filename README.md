@@ -6,6 +6,7 @@ Hey, I'm Nine n2meetu :>
 - C
 - AI/ML/Deep learning
 - Cloud
+- Linux kernel
 
 # Education🏫
 - Freshmen at the School of Information Technology at KMITL
