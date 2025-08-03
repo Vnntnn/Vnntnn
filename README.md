@@ -19,7 +19,7 @@ Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at Sch
 ### Web development.
 - Frontend: HTML5, CSS3, Javascript.
 - Backend: NodeJS, Express, Python, Javascript, Java.
-- Database: MongoDB.
+- Database: MongoDB, SQL.
 ### Networking.
 - Shell script, Python, Command Line, Linux, Config and routing.
 ### AI.
