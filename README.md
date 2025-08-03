@@ -33,7 +33,7 @@ Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at Sch
 - [Stupido Hackatino 9.](https://github.com/Vnntnn/StupidHackathon9)
 - [IT-Clash - Competitive Programming (Problems creator).](https://github.com/Vnntnn/IT-Clash)
 - [KitCat - Math games made in Python.](https://github.com/Vnntnn/PSCP-Project)
-- [Flora Heaven - Indie game made in Java.](https://github.com/Vnntnn?tab=repositories)
+- [Flora Heaven - Indie game made in Java.](https://github.com/Vnntnn/Flora-Heaven)
 - [Bu Blog - Blog website.](https://github.com/Vnntnn/Bu-Blog)
 - [Data structures and Algorithms: Python.](https://github.com/Vnntnn/DSA-Lab)
 - [Object-Oriented Programming: Java.](https://github.com/Vnntnn/OOP-Lab)
