@@ -39,10 +39,10 @@ Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at Sch
 - [Object-Oriented Programming: Java.](https://github.com/Vnntnn/OOP-Lab)
 - [Physical computing: C.](https://github.com/Vnntnn/PhyCom_Lab)
 - [Database system concept: SQL.](https://github.com/Vnntnn/DBSC-Lab)
-- IT Sairahut10: Main head of IT Sairahut (Manage and overview).
+- IT Sairahut 10: Main head of IT Sairahut (Manage and overview).
 - ITCamp 21: [Network Track (Config switch and router for routing and NAT)] - TD/TA.
-- IT Open house: Academic booth (Machine learning predicted debit/credit card using for business planning in Thailand banking) - Staff for fourth years student.
-- ToBeIT68: Registration department - Data management.(Using airtables for registrations, Registors data managing in excel and airtable).
+- IT Openhouse ladkrabang: Academic booth (Machine learning predicted debit/credit card using for business planning in Thailand banking) - Staff for fourth years student.
+- ToBeIT 68: Registration department - Data management.(Using airtables for registrations, Registors data managing in excel and airtable).
 
 # 🎖️ Certifications and Badgets.
 
