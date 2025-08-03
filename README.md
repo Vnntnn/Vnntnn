@@ -2,6 +2,7 @@
 Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at School of Information and Technology at KMITL, Thailand.
 - I'm interesting on Networks, Cyber, AI, Linux things.
 - Looking for competition, You can inviting me all the times.
+- Using vim btw.
 
 # 📝 Resume
 - Coming soon.
