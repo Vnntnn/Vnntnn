@@ -7,29 +7,7 @@ Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at Sch
 # 📝 Resume
 - Coming soon.
 
-# 🧑🏻‍💻 Skills
-### 🙎🏻‍♂️ Soft skills
-- Leaderships.
-- Communications.
-- Teamwork.
-- Listener.
-- Positive thinking.
-- Problem Solving.
-### Programming.
-- Python, Java, Javascript, C, Shell, Lua, OOP.
-### Web development.
-- Frontend: HTML5, CSS3, Javascript.
-- Backend: NodeJS, Express, Python, Javascript, Java.
-- Database: MongoDB, SQL.
-### Networking.
-- Shell script, Python, Command Line, Linux, Config and routing.
-### AI.
-- Python.
-- Jupyter Notebooks.
-- Azure.
-- Machine learning and LLM.
-
-# 📖 Project and event.
+# 📖 Projects and events.
 - [Stupido Hackatino 9.](https://github.com/Vnntnn/StupidHackathon9)
 - [IT-Clash - Competitive Programming (Problems creator).](https://github.com/Vnntnn/IT-Clash)
 - [KitCat - Math games made in Python.](https://github.com/Vnntnn/PSCP-Project)
