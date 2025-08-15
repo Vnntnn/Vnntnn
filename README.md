@@ -1,30 +1,9 @@
-# 😺 About Me
-Hello there !!, My name's "Nine" Nice to meet you. I'm currently studying at School of Information and Technology at KMITL, Thailand.
-- I'm interesting on Networks, Cyber, AI, Linux things.
-- Looking for competition, You can inviting me all the times.
-- Using vim btw.
+# Experience::
+A university student that doing aura code farming smh.
 
-# 📝 Resume
-- Coming soon.
+# Currently learning
+- No vibe code.
+- Git push --force and praying for a god
+- Rats and nerdy
 
-# 📖 Projects and events.
-- [Stupido Hackatino 9.](https://github.com/Vnntnn/StupidHackathon9)
-- [IT-Clash - Competitive Programming (Problems creator).](https://github.com/Vnntnn/IT-Clash)
-- [KitCat - Math games made in Python.](https://github.com/Vnntnn/PSCP-Project)
-- [Flora Heaven - Indie game made in Java.](https://github.com/Vnntnn/Flora-Heaven)
-- [Bu Blog - Blog website.](https://github.com/Vnntnn/Bu-Blog)
-- [Data structures and Algorithms: Python.](https://github.com/Vnntnn/DSA-Lab)
-- [Object-Oriented Programming: Java.](https://github.com/Vnntnn/OOP-Lab)
-- [Physical computing: C.](https://github.com/Vnntnn/PhyCom_Lab)
-- [Database system concept: SQL.](https://github.com/Vnntnn/DBSC-Lab)
-- IT Sairahut 10: Main head of IT Sairahut (Manage and overview).
-- ITCamp 21: [Network Track (Config switch and router for routing and NAT)] - TD/TA.
-- IT Openhouse ladkrabang: Academic booth (Machine learning predicted debit/credit card using for business planning in Thailand banking) - Staff for fourth years student.
-- ToBeIT 68: Registration department - Data management.(Using airtables for registrations, Registors data managing in excel and airtable).
-
-# 🎖️ Certifications and Badgets.
-
-# 📞 Contact
-- [Facebook.](https://www.facebook.com/ninestevf)
-- [Instagram.](https://www.instagram.com/r.tnbd/)
-- [Gmail](thanabodee.nine@gmail.com)
+Every exit there's has a problem btw.
