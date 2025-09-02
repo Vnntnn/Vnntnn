@@ -1,4 +1,4 @@
-# Experience::null
+# ---|rwxd|---
 A university student that doing aura code farming smh.
 
 # Currently learning::null
@@ -21,4 +21,5 @@ Every exit there's has a problem btw.
   />
   <img alt="Breakout Game" src="src/breakout/output/dark.svg" />
 </picture>
+
 ---
