@@ -9,17 +9,4 @@ A university student that doing aura code farming smh.
 
 Every exit there's has a problem btw.
 
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="src/breakout/output/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="src/breakout/output/light.svg"
-  />
-  <img alt="Breakout Game" src="src/breakout/output/dark.svg" />
-</picture>
-
----
+![](./profile-3d-contrib/profile-night-rainbow.svg)
